@@ -2,6 +2,7 @@
 # JavaScript Concepts Repository
 
 This repository contains various JavaScript code examples, covering key concepts and foundational topics. It is primarily aimed at helping you quickly revise JavaScript concepts and understand different coding techniques.
+`` I will keep on adding codes from basics to advanced everyday.``
 
 ## Purpose
 
@@ -70,6 +71,5 @@ Feel free to fork this repository and submit pull requests if you have more Java
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-`` I will keep on adding codes from basics to advanced.``
 
 ## Happy Coding
