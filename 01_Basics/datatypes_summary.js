@@ -33,3 +33,31 @@ const myFunction = function () {
 }
 
 console.log(typeof myFunction); // it will return function type
+
+
+
+
+
+// ********************************************************************
+
+// STACK (Primtiive), HEAP (Non Primitive)
+
+// if we keep inside the stack, it will be copied to another variable
+// if we keep inside the heap, it will be referenced to another variable
+let myYoutubename = "motorbeam"
+let anothername = myYoutubename
+anothername = "fasbeam"
+
+console.log(myYoutubename);
+console.log(anothername);
+
+let userOne = {
+    email: "user@google.com",
+    upi: "user@ybl"
+}
+
+let userTwo = userOne
+userTwo.email = "harry@gmail.com"
+
+console.log(userOne.email);
+
