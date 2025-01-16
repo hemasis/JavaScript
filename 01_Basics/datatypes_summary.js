@@ -32,9 +32,8 @@ const myFunction = function () {
     console.log("Hello World");
 }
 
-console.log(typeof myFunction); // it will return function type
-
-
+console.log("Return type is: " + typeof myFunction); // it will return function type
+console.log("Return type is: " + typeof scoreValue);
 
 
 
